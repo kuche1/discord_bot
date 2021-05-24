@@ -300,6 +300,5 @@ class Music_bot:
 
 shell = Event_hunter()
 
-#client.run('ODQ1Mzk3MzgwMDUxMzcwMDQ1.YKgX9A.2WyhdJnRmdgxhdi9lgcRtoTQ-nU', bot=False)
-shell.run('ODQ1NDAzNTg4NTkxMzUzOTI2.YKgdcg._dPAZURSxLBfMYpPc0Zyfn4pTUg')
+shell.run('...')
 
